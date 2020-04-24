@@ -5,7 +5,7 @@
 2. Team Members: Ashley Waldner, Melanie Jindali, Tashona Smith
 
 3. Wireframe:
-<img src="Wireframe/Wireframe-2.png"
+<img src="assets/Wireframe/Wireframe-2.png"
      alt="Wireframe Image"
      style="float: left; margin-right: 10px;" />
 
