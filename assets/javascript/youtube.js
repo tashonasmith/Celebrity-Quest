@@ -1,13 +1,13 @@
 // Storing YouTube API key & URL
 function videos(celebrity) {
-  var youtubeURL = "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=3&q="  + actor + "&limit=3&key=AIzaSyCOdBDpB6phvxZ0e237kf1Zt7QeWlnmZDM";
+  var youtubeURL = "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=3&q="  + celebrity + "&limit=3&key=AIzaSyCOdBDpB6phvxZ0e237kf1Zt7QeWlnmZDM";
 
   // Melanie API Key - AIzaSyBvDT6JrY1UC0jumUEXSLLw-97HjDh5nb4
 
   //My API Key - AIzaSyCOdBDpB6phvxZ0e237kf1Zt7QeWlnmZDM
 
   //Test
-  // var youtubeURL = "https://www.googleapis.com/youtube/v3/search?q=something&key=YOUR_API_KEY&fields=items(id,snippet(title,thumbnails(default))&part=snippet"
+  //youtubeURL = "https://www.googleapis.com/youtube/v3/search?q=" + actor + "&key=AIzaSyBvDT6JrY1UC0jumUEXSLLw-97HjDh5nb4&fields=items(id,snippet(title,thumbnails(default))&part=snippet"
 
   //youtubeURL = "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=3&limit=3&order=relevance&type=video&videoEmbeddable=true&key=AIzaSyBvDT6JrY1UC0jumUEXSLLw-97HjDh5nb4";
 
